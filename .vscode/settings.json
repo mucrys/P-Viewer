@@ -1,0 +1,16 @@
+{
+  "files.encoding": "utf8",
+  "files.autoGuessEncoding": true,
+  "files.eol": "\n",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python",
+    "editor.formatOnSave": false
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[markdown]": {
+    "editor.wordWrap": "on"
+  },
+  "python.analysis.typeCheckingMode": "basic"
+}

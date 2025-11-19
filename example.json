@@ -1,0 +1,21 @@
+{
+  "name": "P-Viewer",
+  "version": "1.0.0",
+  "description": "程序员专用文件查看和编辑工具",
+  "features": [
+    "JSON支持",
+    "Proto支持",
+    "语法高亮",
+    "主题切换"
+  ],
+  "config": {
+    "theme": "github_light",
+    "fontSize": 10,
+    "autoSave": false
+  },
+  "stats": {
+    "lines": 500,
+    "size": 15360,
+    "modified": true
+  }
+}
